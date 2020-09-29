@@ -66,3 +66,22 @@ Date,End date of the Poll,electoral_vote_pres_polls_20200928.csv
 ,Empty column as stated on website,electoral_vote_pres_polls_20200928.csv
 ,Empty column as stated on website,electoral_vote_pres_polls_20200928.csv
 Pollster,Combination of the Name of Polling data and how many days the Poll took place,electoral_vote_pres_polls_20200928.csv
+Day,"Day of the year at the midpoint of the poll, so a poll from Feb 02 to Feb 04 would have Feb 03 as the midpoint and this is day 34",electoral_vote_2016_pres_polls.csv
+Len,How many days the Poll took place,electoral_vote_2016_pres_polls.csv
+State,State of the USA,electoral_vote_2016_pres_polls.csv
+EV,Number of Electoral Votes,electoral_vote_2016_pres_polls.csv
+Dem,Percentage for Democrats,electoral_vote_2016_pres_polls.csv
+GOP,Percentage for Republicans,electoral_vote_2016_pres_polls.csv
+Ind,Empty % column - uncertain what kind of data it is meant to contain,electoral_vote_2016_pres_polls.csv
+Date,End date of the Poll,electoral_vote_2016_pres_polls.csv
+,Empty column as stated on website,electoral_vote_2016_pres_polls.csv
+,Empty column as stated on website,electoral_vote_2016_pres_polls.csv
+,Empty column as stated on website,electoral_vote_2016_pres_polls.csv
+,Empty column as stated on website,electoral_vote_2016_pres_polls.csv
+,Empty column as stated on website,electoral_vote_2016_pres_polls.csv
+,Empty column as stated on website,electoral_vote_2016_pres_polls.csv
+,Empty column as stated on website,electoral_vote_2016_pres_polls.csv
+Pollster,Combination of the Name of Polling data and how many days the Poll took place,electoral_vote_2016_pres_polls.csv
+State,State of the USA,no_of_registered_voters_by_state_2020.csv
+registeredPerc,Percentage of registered voters against the state population,no_of_registered_voters_by_state_2020.csv
+totalRegistered,Count of registered voters,no_of_registered_voters_by_state_2020.csv
