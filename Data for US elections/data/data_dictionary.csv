@@ -50,3 +50,19 @@ current_zscore,Number of standard deviations from the previous 2-year average fo
 projected_zscore,Number of standard deviations from the previous 2-year average for the projected value of the indicator on Election Day,economic_index.csv
 projected_hi,Upper bound of an 80% confidence interval for projected_zscore,economic_index.csv
 projected_lo,Lower bound of an 80% confidence interval for projected_zscore,economic_index.csv
+Day,"Day of the year at the midpoint of the poll, so a poll from Feb 02 to Feb 04 would have Feb 03 as the midpoint and this is day 34",electoral_vote_pres_polls_20200928.csv
+Len,How many days the Poll took place,electoral_vote_pres_polls_20200928.csv
+State,State of the USA,electoral_vote_pres_polls_20200928.csv
+EV,Number of Electoral Votes,electoral_vote_pres_polls_20200928.csv
+Dem,Percentage for Democrats,electoral_vote_pres_polls_20200928.csv
+GOP,Percentage for Republicans,electoral_vote_pres_polls_20200928.csv
+Ind,Empty % column - uncertain what kind of data it is meant to contain,electoral_vote_pres_polls_20200928.csv
+Date,End date of the Poll,electoral_vote_pres_polls_20200928.csv
+,Empty column as stated on website,electoral_vote_pres_polls_20200928.csv
+,Empty column as stated on website,electoral_vote_pres_polls_20200928.csv
+,Empty column as stated on website,electoral_vote_pres_polls_20200928.csv
+,Empty column as stated on website,electoral_vote_pres_polls_20200928.csv
+,Empty column as stated on website,electoral_vote_pres_polls_20200928.csv
+,Empty column as stated on website,electoral_vote_pres_polls_20200928.csv
+,Empty column as stated on website,electoral_vote_pres_polls_20200928.csv
+Pollster,Combination of the Name of Polling data and how many days the Poll took place,electoral_vote_pres_polls_20200928.csv
