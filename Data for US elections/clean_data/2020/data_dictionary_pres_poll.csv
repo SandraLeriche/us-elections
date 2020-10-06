@@ -1,0 +1,7 @@
+﻿Day,"Day of year the middle of poll was conducted (example Poll was conducted between 2nd and 4th of Feb, day owul dbe 3rd of Feb which is day 34)"
+Len,Duration of poll
+State,State
+Dem,Democrat party %
+GOP,republican party %
+Date,date of data collection
+Pollster,Pollster
