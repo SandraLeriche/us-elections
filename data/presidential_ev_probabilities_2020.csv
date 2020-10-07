@@ -1,540 +1,540 @@
-cycle,branch,model,modeldate,candidate_inc,candidate_chal,candidate_3rd,evprob_inc,evprob_chal,evprob_3rd,total_ev,timestamp,simulations
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00175,0,,99,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001425,0,,98,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0024,0,,97,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001675,0.000025,,96,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001125,0,,95,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0024,0,,94,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0017,0,,93,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0022,0,,92,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00155,0,,91,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00125,0,,90,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000075,0,,9,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001525,0.000025,,89,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001575,0,,88,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00095,0.00005,,87,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001675,0,,86,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001125,0,,85,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000625,0,,84,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0017,0,,83,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00165,0,,82,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00085,0,,81,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001275,0.000025,,80,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000175,0,,8,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000675,0,,79,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000625,0,,78,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001225,0,,77,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001,0,,76,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001075,0,,75,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00105,0,,74,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000625,0,,73,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0009,0,,72,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00075,0,,71,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0007,0,,70,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00015,0,,7,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000675,0.000025,,69,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0008,0,,68,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0005,0,,67,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000925,0,,66,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000675,0,,65,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00055,0,,64,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00105,0,,63,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0008,0,,62,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0004,0,,61,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000575,0,,60,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000025,0,,6,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000675,0,,59,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000575,0,,58,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000575,0,,57,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000525,0,,56,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0008,0,,55,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000575,0,,54,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0,,538,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000225,,537,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0,,536,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0,,535,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000425,,534,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000025,,533,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000025,,532,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00015,,531,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000175,,530,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0003,0,,53,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000075,,529,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00015,,528,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00005,,527,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000075,,526,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00015,,525,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000075,,524,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000125,,523,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000175,,522,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000075,,521,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00015,,520,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00065,0,,52,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000175,,519,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000125,,518,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000125,,517,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00015,,516,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.0003,,515,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.0001,,514,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000225,,513,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000175,,512,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000125,,511,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000275,,510,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00085,0.000025,,51,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000325,,509,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000175,,508,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00035,,507,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.0005,,506,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000325,,505,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.0003,,504,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000025,0.000275,,503,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000275,,502,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00025,,501,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00025,,500,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00015,0,,50,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000025,0,,5,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000325,,499,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000025,0.0004,,498,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000275,,497,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00065,,496,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.0007,,495,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00015,,494,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000025,0.0006,,493,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000525,,492,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.0002,,491,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000025,0.00055,,490,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00045,0,,49,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00045,,489,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00015,,488,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000025,0.00085,,487,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00065,,486,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.0003,,485,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000575,,484,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.0008,,483,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000525,,482,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000575,,481,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000575,,480,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00055,0.000025,,48,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000675,,479,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000575,,478,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.0004,,477,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.0008,,476,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00105,,475,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00055,,474,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000675,,473,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000925,,472,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.0005,,471,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.0008,,470,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0002,0,,47,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000025,0.000675,,469,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.0007,,468,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00075,,467,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.0009,,466,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000625,,465,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00105,,464,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.001075,,463,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.001,,462,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.001225,,461,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000625,,460,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000525,0,,46,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000675,,459,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000025,0.001275,,458,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00085,,457,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00165,,456,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.0017,,455,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.000625,,454,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.001125,,453,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.001675,,452,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00005,0.00095,,451,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.001575,,450,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0006,0.000025,,45,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000025,0.001525,,449,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00125,,448,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00155,,447,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.0022,,446,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.0017,,445,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.0024,,444,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.001125,,443,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000025,0.001675,,442,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.0024,,441,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.001425,,440,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00015,0,,44,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00175,,439,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000025,0.002325,,438,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.001275,,437,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000025,0.003625,,436,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000025,0.0047,,435,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00175,,434,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.001425,,433,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00255,,432,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000025,0.003125,,431,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00005,0.002175,,430,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0007,0,,43,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.0037,,429,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00005,0.00405,,428,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00205,,427,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00375,,426,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.0059,,425,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000025,0.0014,,424,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000125,0.00285,,423,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000025,0.0059,,422,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.002875,,421,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00005,0.002175,,420,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00065,0,,42,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.010025,,419,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000025,0.00165,,418,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.00155,,417,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.01605,,416,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.0029,,415,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00005,0.0016,,414,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.030475,,413,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000025,0.008675,,412,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.0009,,411,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000025,0.00245,,410,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000275,0,,41,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00005,0.00205,,409,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000075,0.001475,,408,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000025,0.005025,,407,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0001,0.006325,,406,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00005,0.001275,,405,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00005,0.001325,,404,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000175,0.002875,,403,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00005,0.001775,,402,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00005,0.00095,,401,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000075,0.00475,,400,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0004,0.000025,,40,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000425,0,,4,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00005,0.001275,,399,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000075,0.00145,,398,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0.009975,,397,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0001,0.002325,,396,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000025,0.001275,,395,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00005,0.0024,,394,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000075,0.001225,,393,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0001,0.000875,,392,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00005,0.0044,,391,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000075,0.003475,,390,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000325,0,,39,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000175,0.001775,,389,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000275,0.003975,,388,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00025,0.00195,,387,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000075,0.001475,,386,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000025,0.001425,,385,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0003,0.002575,,384,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000225,0.001425,,383,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00025,0.0022,,382,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0002,0.0038,,381,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0003,0.001575,,380,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00025,0,,38,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0001,0.001725,,379,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000425,0.006375,,378,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00015,0.001925,,377,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00055,0.00155,,376,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0003,0.02025,,375,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000375,0.0052,,374,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000275,0.001825,,373,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000175,0.0032,,372,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0003,0.00185,,371,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00025,0.001075,,370,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00025,0,,37,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00055,0.007625,,369,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000125,0.006875,,368,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000325,0.0019,,367,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00065,0.001125,,366,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00035,0.004875,,365,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0002,0.0033,,364,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001325,0.001975,,363,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00315,0.00635,,362,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00035,0.001925,,361,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0007,0.0021,,360,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000275,0,,36,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000325,0.020825,,359,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0006,0.005425,,358,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00175,0.0033,,357,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00035,0.003475,,356,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0022,0.00185,,355,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0002,0.00205,,354,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00125,0.014325,,353,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00035,0.00845,,352,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000675,0.00365,,351,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.003475,0.005,,350,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000275,0.000025,,35,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0029,0.002075,,349,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001625,0.00345,,348,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0012,0.003625,,347,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000675,0.002625,,346,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00115,0.001775,,345,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00295,0.006875,,344,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00085,0.003475,,343,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0029,0.00395,,342,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001025,0.00485,,341,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001775,0.0033,,340,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0003,0,,34,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0017,0.00225,,339,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00165,0.007,,338,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0042,0.007825,,337,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0007,0.00285,,336,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0047,0.006,,335,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001075,0.0082,,334,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001725,0.00545,,333,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00155,0.002,,332,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0021,0.001775,,331,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001275,0.0051,,330,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000325,0,,33,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0013,0.00295,,329,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0032,0.002175,,328,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0016,0.003225,,327,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.005175,0.0031,,326,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00275,0.003675,,325,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00125,0.00545,,324,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00115,0.0051,,323,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002725,0.00315,,322,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0021,0.002175,,321,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002125,0.00525,,320,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0005,0,,32,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0022,0.014575,,319,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002375,0.005625,,318,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001825,0.002025,,317,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0049,0.002975,,316,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001925,0.00615,,315,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001025,0.004375,,314,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0013,0.00645,,313,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.004175,0.0047,,312,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.003,0.00205,,311,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.004025,0.002175,,310,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00035,0,,31,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00245,0.005975,,309,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001225,0.00775,,308,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001,0.0029,,307,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0039,0.002875,,306,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002125,0.003175,,305,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0024,0.004425,,304,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00145,0.00255,,303,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0024,0.001875,,302,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002825,0.002325,,301,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00425,0.001925,,300,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000175,0,,30,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0,,3,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0023,0.002825,,299,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001175,0.005975,,298,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000875,0.0051,,297,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00385,0.001575,,296,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.003375,0.00435,,295,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0043,0.00655,,294,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002525,0.003825,,293,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001875,0.002925,,292,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001875,0.0063,,291,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.003875,0.01325,,290,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000325,0,,29,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0034,0.006075,,289,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001125,0.002475,,288,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0009,0.00205,,287,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.004,0.003775,,286,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00465,0.003325,,285,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0047,0.002875,,284,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.003925,0.0026,,283,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001925,0.00265,,282,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001525,0.001375,,281,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0046,0.00755,,280,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000275,0,,28,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.005,0.015275,,279,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00185,0.007975,,278,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001225,0.001725,,277,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00245,0.00175,,276,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0037,0.003325,,275,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002675,0.00615,,274,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0044,0.005875,,273,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00255,0.003375,,272,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00115,0.001275,,271,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.003275,0.003225,,270,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000125,0,,27,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.004775,0.004775,,269,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.003225,0.003275,,268,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001275,0.00115,,267,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.003375,0.00255,,266,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.005875,0.0044,,265,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00615,0.002675,,264,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.003325,0.0037,,263,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00175,0.00245,,262,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001725,0.001225,,261,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.007975,0.00185,,260,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000175,0,,26,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.015275,0.005,,259,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00755,0.0046,,258,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001375,0.001525,,257,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00265,0.001925,,256,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0026,0.003925,,255,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002875,0.0047,,254,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.003325,0.00465,,253,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.003775,0.004,,252,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00205,0.0009,,251,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002475,0.001125,,250,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000225,0,,25,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.006075,0.0034,,249,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.01325,0.003875,,248,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0063,0.001875,,247,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002925,0.001875,,246,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.003825,0.002525,,245,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00655,0.0043,,244,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00435,0.003375,,243,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001575,0.00385,,242,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0051,0.000875,,241,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.005975,0.001175,,240,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0001,0,,24,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002825,0.0023,,239,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001925,0.00425,,238,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002325,0.002825,,237,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001875,0.0024,,236,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00255,0.00145,,235,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.004425,0.0024,,234,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.003175,0.002125,,233,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002875,0.0039,,232,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0029,0.001,,231,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00775,0.001225,,230,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0003,0,,23,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.005975,0.00245,,229,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002175,0.004025,,228,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00205,0.003,,227,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0047,0.004175,,226,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00645,0.0013,,225,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.004375,0.001025,,224,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00615,0.001925,,223,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002975,0.0049,,222,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002025,0.001825,,221,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.005625,0.002375,,220,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00015,0,,22,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.014575,0.0022,,219,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00525,0.002125,,218,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002175,0.0021,,217,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00315,0.002725,,216,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0051,0.00115,,215,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00545,0.00125,,214,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.003675,0.00275,,213,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0031,0.005175,,212,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.003225,0.0016,,211,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002175,0.0032,,210,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000125,0,,21,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00295,0.0013,,209,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0051,0.001275,,208,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001775,0.0021,,207,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002,0.00155,,206,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00545,0.001725,,205,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0082,0.001075,,204,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.006,0.0047,,203,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00285,0.0007,,202,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.007825,0.0042,,201,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.007,0.00165,,200,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000125,0,,20,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0,,2,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00225,0.0017,,199,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0033,0.001775,,198,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00485,0.001025,,197,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00395,0.0029,,196,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.003475,0.00085,,195,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.006875,0.00295,,194,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001775,0.00115,,193,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002625,0.000675,,192,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.003625,0.0012,,191,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00345,0.001625,,190,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000175,0,,19,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002075,0.0029,,189,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.005,0.003475,,188,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00365,0.000675,,187,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00845,0.00035,,186,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.014325,0.00125,,185,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00205,0.0002,,184,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00185,0.0022,,183,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.003475,0.00035,,182,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0033,0.00175,,181,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.005425,0.0006,,180,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00015,0,,18,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.020825,0.000325,,179,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0021,0.0007,,178,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001925,0.00035,,177,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00635,0.00315,,176,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001975,0.001325,,175,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0033,0.0002,,174,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.004875,0.00035,,173,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001125,0.00065,,172,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0019,0.000325,,171,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.006875,0.000125,,170,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000075,0,,17,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.007625,0.00055,,169,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001075,0.00025,,168,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00185,0.0003,,167,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0032,0.000175,,166,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001825,0.000275,,165,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0052,0.000375,,164,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.02025,0.0003,,163,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00155,0.00055,,162,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001925,0.00015,,161,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.006375,0.000425,,160,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000175,0,,16,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001725,0.0001,,159,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001575,0.0003,,158,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0038,0.0002,,157,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0022,0.00025,,156,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001425,0.000225,,155,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002575,0.0003,,154,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001425,0.000025,,153,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001475,0.000075,,152,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00195,0.00025,,151,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.003975,0.000275,,150,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000125,0,,15,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001775,0.000175,,149,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.003475,0.000075,,148,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0044,0.00005,,147,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000875,0.0001,,146,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001225,0.000075,,145,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0024,0.00005,,144,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001275,0.000025,,143,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002325,0.0001,,142,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.009975,0,,141,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00145,0.000075,,140,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000075,0,,14,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001275,0.00005,,139,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00475,0.000075,,138,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00095,0.00005,,137,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001775,0.00005,,136,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002875,0.000175,,135,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001325,0.00005,,134,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001275,0.00005,,133,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.006325,0.0001,,132,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.005025,0.000025,,131,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001475,0.000075,,130,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00015,0,,13,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00205,0.00005,,129,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00245,0.000025,,128,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0009,0,,127,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.008675,0.000025,,126,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.030475,0,,125,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0016,0.00005,,124,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0029,0,,123,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.01605,0,,122,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00155,0,,121,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00165,0.000025,,120,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000075,0,,12,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.010025,0,,119,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002175,0.00005,,118,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002875,0,,117,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0059,0.000025,,116,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00285,0.000125,,115,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0014,0.000025,,114,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0059,0,,113,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00375,0,,112,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00205,0,,111,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00405,0.00005,,110,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00005,0,,11,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0037,0,,109,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002175,0.00005,,108,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.003125,0.000025,,107,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00255,0,,106,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001425,0,,105,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00175,0,,104,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.0047,0.000025,,103,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.003625,0.000025,,102,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.001275,0,,101,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.002325,0.000025,,100,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.00015,0,,10,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0.000225,0,,1,14:59:03 28 Sep 2020,40000
-2020,President,polls-plus,2020-09-28,Trump,Biden,,0,0,,0,14:59:03 28 Sep 2020,40000
+cycle,branch,model,modeldate,candidate_inc,candidate_chal,evprob_inc,evprob_chal,total_ev,timestamp,simulations
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00175,0,99,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001425,0,98,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0024,0,97,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001675,0.000025,96,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001125,0,95,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0024,0,94,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0017,0,93,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0022,0,92,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00155,0,91,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00125,0,90,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000075,0,9,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001525,0.000025,89,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001575,0,88,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00095,0.00005,87,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001675,0,86,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001125,0,85,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000625,0,84,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0017,0,83,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00165,0,82,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00085,0,81,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001275,0.000025,80,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000175,0,8,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000675,0,79,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000625,0,78,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001225,0,77,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001,0,76,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001075,0,75,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00105,0,74,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000625,0,73,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0009,0,72,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00075,0,71,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0007,0,70,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00015,0,7,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000675,0.000025,69,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0008,0,68,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0005,0,67,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000925,0,66,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000675,0,65,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00055,0,64,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00105,0,63,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0008,0,62,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0004,0,61,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000575,0,60,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000025,0,6,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000675,0,59,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000575,0,58,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000575,0,57,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000525,0,56,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0008,0,55,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000575,0,54,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0,538,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000225,537,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0,536,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0,535,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000425,534,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000025,533,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000025,532,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00015,531,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000175,530,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0003,0,53,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000075,529,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00015,528,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00005,527,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000075,526,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00015,525,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000075,524,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000125,523,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000175,522,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000075,521,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00015,520,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00065,0,52,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000175,519,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000125,518,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000125,517,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00015,516,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.0003,515,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.0001,514,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000225,513,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000175,512,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000125,511,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000275,510,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00085,0.000025,51,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000325,509,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000175,508,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00035,507,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.0005,506,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000325,505,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.0003,504,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000025,0.000275,503,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000275,502,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00025,501,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00025,500,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00015,0,50,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000025,0,5,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000325,499,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000025,0.0004,498,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000275,497,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00065,496,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.0007,495,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00015,494,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000025,0.0006,493,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000525,492,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.0002,491,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000025,0.00055,490,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00045,0,49,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00045,489,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00015,488,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000025,0.00085,487,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00065,486,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.0003,485,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000575,484,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.0008,483,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000525,482,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000575,481,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000575,480,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00055,0.000025,48,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000675,479,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000575,478,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.0004,477,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.0008,476,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00105,475,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00055,474,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000675,473,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000925,472,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.0005,471,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.0008,470,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0002,0,47,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000025,0.000675,469,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.0007,468,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00075,467,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.0009,466,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000625,465,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00105,464,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.001075,463,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.001,462,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.001225,461,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000625,460,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000525,0,46,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000675,459,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000025,0.001275,458,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00085,457,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00165,456,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.0017,455,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.000625,454,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.001125,453,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.001675,452,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00005,0.00095,451,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.001575,450,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0006,0.000025,45,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000025,0.001525,449,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00125,448,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00155,447,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.0022,446,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.0017,445,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.0024,444,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.001125,443,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000025,0.001675,442,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.0024,441,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.001425,440,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00015,0,44,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00175,439,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000025,0.002325,438,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.001275,437,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000025,0.003625,436,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000025,0.0047,435,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00175,434,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.001425,433,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00255,432,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000025,0.003125,431,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00005,0.002175,430,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0007,0,43,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.0037,429,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00005,0.00405,428,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00205,427,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00375,426,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.0059,425,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000025,0.0014,424,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000125,0.00285,423,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000025,0.0059,422,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.002875,421,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00005,0.002175,420,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00065,0,42,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.010025,419,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000025,0.00165,418,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.00155,417,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.01605,416,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.0029,415,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00005,0.0016,414,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.030475,413,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000025,0.008675,412,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.0009,411,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000025,0.00245,410,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000275,0,41,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00005,0.00205,409,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000075,0.001475,408,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000025,0.005025,407,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0001,0.006325,406,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00005,0.001275,405,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00005,0.001325,404,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000175,0.002875,403,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00005,0.001775,402,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00005,0.00095,401,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000075,0.00475,400,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0004,0.000025,40,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000425,0,4,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00005,0.001275,399,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000075,0.00145,398,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0.009975,397,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0001,0.002325,396,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000025,0.001275,395,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00005,0.0024,394,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000075,0.001225,393,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0001,0.000875,392,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00005,0.0044,391,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000075,0.003475,390,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000325,0,39,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000175,0.001775,389,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000275,0.003975,388,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00025,0.00195,387,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000075,0.001475,386,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000025,0.001425,385,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0003,0.002575,384,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000225,0.001425,383,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00025,0.0022,382,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0002,0.0038,381,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0003,0.001575,380,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00025,0,38,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0001,0.001725,379,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000425,0.006375,378,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00015,0.001925,377,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00055,0.00155,376,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0003,0.02025,375,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000375,0.0052,374,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000275,0.001825,373,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000175,0.0032,372,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0003,0.00185,371,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00025,0.001075,370,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00025,0,37,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00055,0.007625,369,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000125,0.006875,368,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000325,0.0019,367,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00065,0.001125,366,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00035,0.004875,365,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0002,0.0033,364,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001325,0.001975,363,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00315,0.00635,362,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00035,0.001925,361,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0007,0.0021,360,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000275,0,36,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000325,0.020825,359,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0006,0.005425,358,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00175,0.0033,357,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00035,0.003475,356,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0022,0.00185,355,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0002,0.00205,354,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00125,0.014325,353,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00035,0.00845,352,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000675,0.00365,351,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.003475,0.005,350,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000275,0.000025,35,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0029,0.002075,349,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001625,0.00345,348,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0012,0.003625,347,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000675,0.002625,346,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00115,0.001775,345,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00295,0.006875,344,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00085,0.003475,343,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0029,0.00395,342,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001025,0.00485,341,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001775,0.0033,340,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0003,0,34,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0017,0.00225,339,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00165,0.007,338,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0042,0.007825,337,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0007,0.00285,336,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0047,0.006,335,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001075,0.0082,334,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001725,0.00545,333,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00155,0.002,332,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0021,0.001775,331,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001275,0.0051,330,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000325,0,33,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0013,0.00295,329,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0032,0.002175,328,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0016,0.003225,327,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.005175,0.0031,326,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00275,0.003675,325,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00125,0.00545,324,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00115,0.0051,323,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002725,0.00315,322,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0021,0.002175,321,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002125,0.00525,320,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0005,0,32,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0022,0.014575,319,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002375,0.005625,318,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001825,0.002025,317,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0049,0.002975,316,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001925,0.00615,315,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001025,0.004375,314,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0013,0.00645,313,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.004175,0.0047,312,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.003,0.00205,311,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.004025,0.002175,310,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00035,0,31,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00245,0.005975,309,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001225,0.00775,308,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001,0.0029,307,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0039,0.002875,306,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002125,0.003175,305,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0024,0.004425,304,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00145,0.00255,303,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0024,0.001875,302,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002825,0.002325,301,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00425,0.001925,300,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000175,0,30,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0,3,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0023,0.002825,299,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001175,0.005975,298,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000875,0.0051,297,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00385,0.001575,296,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.003375,0.00435,295,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0043,0.00655,294,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002525,0.003825,293,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001875,0.002925,292,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001875,0.0063,291,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.003875,0.01325,290,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000325,0,29,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0034,0.006075,289,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001125,0.002475,288,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0009,0.00205,287,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.004,0.003775,286,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00465,0.003325,285,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0047,0.002875,284,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.003925,0.0026,283,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001925,0.00265,282,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001525,0.001375,281,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0046,0.00755,280,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000275,0,28,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.005,0.015275,279,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00185,0.007975,278,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001225,0.001725,277,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00245,0.00175,276,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0037,0.003325,275,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002675,0.00615,274,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0044,0.005875,273,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00255,0.003375,272,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00115,0.001275,271,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.003275,0.003225,270,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000125,0,27,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.004775,0.004775,269,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.003225,0.003275,268,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001275,0.00115,267,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.003375,0.00255,266,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.005875,0.0044,265,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00615,0.002675,264,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.003325,0.0037,263,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00175,0.00245,262,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001725,0.001225,261,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.007975,0.00185,260,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000175,0,26,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.015275,0.005,259,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00755,0.0046,258,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001375,0.001525,257,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00265,0.001925,256,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0026,0.003925,255,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002875,0.0047,254,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.003325,0.00465,253,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.003775,0.004,252,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00205,0.0009,251,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002475,0.001125,250,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000225,0,25,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.006075,0.0034,249,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.01325,0.003875,248,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0063,0.001875,247,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002925,0.001875,246,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.003825,0.002525,245,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00655,0.0043,244,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00435,0.003375,243,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001575,0.00385,242,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0051,0.000875,241,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.005975,0.001175,240,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0001,0,24,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002825,0.0023,239,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001925,0.00425,238,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002325,0.002825,237,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001875,0.0024,236,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00255,0.00145,235,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.004425,0.0024,234,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.003175,0.002125,233,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002875,0.0039,232,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0029,0.001,231,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00775,0.001225,230,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0003,0,23,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.005975,0.00245,229,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002175,0.004025,228,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00205,0.003,227,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0047,0.004175,226,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00645,0.0013,225,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.004375,0.001025,224,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00615,0.001925,223,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002975,0.0049,222,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002025,0.001825,221,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.005625,0.002375,220,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00015,0,22,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.014575,0.0022,219,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00525,0.002125,218,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002175,0.0021,217,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00315,0.002725,216,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0051,0.00115,215,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00545,0.00125,214,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.003675,0.00275,213,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0031,0.005175,212,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.003225,0.0016,211,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002175,0.0032,210,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000125,0,21,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00295,0.0013,209,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0051,0.001275,208,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001775,0.0021,207,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002,0.00155,206,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00545,0.001725,205,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0082,0.001075,204,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.006,0.0047,203,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00285,0.0007,202,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.007825,0.0042,201,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.007,0.00165,200,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000125,0,20,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0,2,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00225,0.0017,199,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0033,0.001775,198,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00485,0.001025,197,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00395,0.0029,196,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.003475,0.00085,195,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.006875,0.00295,194,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001775,0.00115,193,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002625,0.000675,192,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.003625,0.0012,191,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00345,0.001625,190,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000175,0,19,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002075,0.0029,189,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.005,0.003475,188,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00365,0.000675,187,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00845,0.00035,186,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.014325,0.00125,185,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00205,0.0002,184,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00185,0.0022,183,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.003475,0.00035,182,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0033,0.00175,181,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.005425,0.0006,180,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00015,0,18,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.020825,0.000325,179,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0021,0.0007,178,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001925,0.00035,177,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00635,0.00315,176,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001975,0.001325,175,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0033,0.0002,174,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.004875,0.00035,173,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001125,0.00065,172,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0019,0.000325,171,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.006875,0.000125,170,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000075,0,17,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.007625,0.00055,169,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001075,0.00025,168,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00185,0.0003,167,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0032,0.000175,166,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001825,0.000275,165,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0052,0.000375,164,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.02025,0.0003,163,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00155,0.00055,162,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001925,0.00015,161,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.006375,0.000425,160,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000175,0,16,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001725,0.0001,159,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001575,0.0003,158,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0038,0.0002,157,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0022,0.00025,156,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001425,0.000225,155,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002575,0.0003,154,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001425,0.000025,153,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001475,0.000075,152,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00195,0.00025,151,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.003975,0.000275,150,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000125,0,15,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001775,0.000175,149,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.003475,0.000075,148,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0044,0.00005,147,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000875,0.0001,146,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001225,0.000075,145,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0024,0.00005,144,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001275,0.000025,143,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002325,0.0001,142,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.009975,0,141,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00145,0.000075,140,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000075,0,14,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001275,0.00005,139,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00475,0.000075,138,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00095,0.00005,137,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001775,0.00005,136,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002875,0.000175,135,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001325,0.00005,134,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001275,0.00005,133,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.006325,0.0001,132,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.005025,0.000025,131,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001475,0.000075,130,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00015,0,13,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00205,0.00005,129,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00245,0.000025,128,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0009,0,127,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.008675,0.000025,126,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.030475,0,125,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0016,0.00005,124,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0029,0,123,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.01605,0,122,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00155,0,121,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00165,0.000025,120,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000075,0,12,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.010025,0,119,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002175,0.00005,118,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002875,0,117,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0059,0.000025,116,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00285,0.000125,115,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0014,0.000025,114,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0059,0,113,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00375,0,112,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00205,0,111,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00405,0.00005,110,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00005,0,11,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0037,0,109,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002175,0.00005,108,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.003125,0.000025,107,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00255,0,106,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001425,0,105,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00175,0,104,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.0047,0.000025,103,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.003625,0.000025,102,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.001275,0,101,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.002325,0.000025,100,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.00015,0,10,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0.000225,0,1,28/09/2020 14:59,40000
+2020,President,polls-plus,28/09/2020,Trump,Biden,0,0,0,28/09/2020 14:59,40000
