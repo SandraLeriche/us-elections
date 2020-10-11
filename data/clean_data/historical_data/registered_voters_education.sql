@@ -1,4 +1,4 @@
-CREATE TABLE your_table_name (
+CREATE TABLE registered_voters_education (
   id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
   line INT,
   state_code VARCHAR(255),
@@ -43,7 +43,7 @@ CREATE TABLE your_table_name (
   bachelors_degree_or_more_perc FLOAT,
   bachelors_degree_or_more_perc_MOE FLOAT
 );
-INSERT INTO your_table_name
+INSERT INTO registered_voters_education
   (line,state_code,state_name,congressional_district,voting_age_pop_estimate,voting__age_pop_MOE,less_9_grade_estimate,less_9_grade_MOE,less_9_grade_perc,less_9_grade_MOE,col9_to_12_grade_estimate,col9_to_12_grade_MOE,col9_to_12_grade_perc,col9_to_12_grade_perc_MOE,high_school_estimate,high_school_MOE,high_school_perc,high_school_perc_MOE,college_no_degree_estimate,college_no_degree_MOE,college_no_degree_perc,college_no_degree_perc_MOE,associate_degree_estimate,associate_degree_MOE,associate_degree_perc,associate_degree_perc_MOE,bachelors_degree_estimate,bachelors_degree_MOE,bachelors_degree_perc,bachelors_degree_perc_MOE,graduate_degree_estimate,graduate_degree_MOE,graduate_degree_perc,graduate_degree_perc_MOE,high_school_or_more_estimate,high_school_or_more_MOE,high_school_or_more_perc,high_school_or_more_perc_MOE,bachelors_degree_or_more_estimate,bachelors_degree_or_more_MOE,bachelors_degree_or_more_perc,bachelors_degree_or_more_perc_MOE)
 VALUES
   (1,'AL','Alabama','1','544,464','3,424','13,409','1,845',2.5,0.3,'57,234','4,433',10.5,0.8,'185,503','6,968',34.1,1.2,'122,236','6,275',22.5,1.2,'42,603','3,561',7.8,0.6,'82,971','5,147',15.2,1,'40,508','3,710',7.4,0.7,'473,821','5,794',87,0.9,'123,479','5,614',22.7,1.1),

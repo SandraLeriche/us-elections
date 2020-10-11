@@ -1,4 +1,4 @@
-CREATE TABLE your_table_name (
+CREATE TABLE registered_voters_sex_and_poverty (
   id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
   line INT,
   state_code VARCHAR(255),
@@ -21,7 +21,7 @@ CREATE TABLE your_table_name (
   below_poverty_perc FLOAT,
   below_poverty_MOE FLOAT
 );
-INSERT INTO your_table_name
+INSERT INTO registered_voters_sex_and_poverty
   (line,state_code,state_name,congressional_district,voting_age_pop_estimate,voting_age_pop_MOE,men_estimate,men_MOE,men_perc,men__perc_MOE,women_estimate,women_MOE,women_perc,women__perc_MOE,poverty_universe,poverty_universe_MOE,below_poverty_estimate,below_proverty_MOE,below_poverty_perc,below_poverty_MOE)
 VALUES
   (1,'AL','Alabama','1','544,464','3,424','256,603','2,312',47.1,0.3,'287,861','2,175',52.9,0.3,'532,906','4,244','76,483','6,772',14.4,1.3),

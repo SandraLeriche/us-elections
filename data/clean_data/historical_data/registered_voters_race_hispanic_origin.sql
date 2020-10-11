@@ -1,4 +1,4 @@
-CREATE TABLE your_table_name (
+CREATE TABLE registered_voters_race_hispanic_origin (
   id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
   line INT,
   state_code VARCHAR(255),
@@ -43,7 +43,7 @@ CREATE TABLE your_table_name (
   white_non_hispanic_perc FLOAT,
   white_non_hispanic_perc_MOE FLOAT
 );
-INSERT INTO your_table_name
+INSERT INTO registered_voters_race_hispanic_origin
   (line,state_code,state_name,congressional_district,voting_age_pop_estimate,voting_age_pop_MOE,white_estimate,white_MOE,white_perc,white_perc_MOE,black_estimate,black_MOE,black_perc,black_perc_MOE,asia_estimate,asia_MOE,asia_perc,asia_perc_MOE,native_american_estimate,native_american_MOE,native_american_perc,native_american_perc_MOE,native_hawaiian_estimate,native_hawaiian_MOE,native_hawaiian_perc,native_hawaiian_perc_MOE,other_race_estimate,other_race_MOE,other_race_perc,other_race_perc_MOE,multi_race_estimate,multi_race_MOE,multi_race_perc,multi_race_perc_MOE,hispanic_estimate,hispanic_MOE,hispanic_perc,hispanic_perc_MOE,white_non_hispanic_estimate,white_non_hispanic_MOE,white_non_hispanic_perc,white_non_hispanic_perc_MOE)
 VALUES
   (1,'AL','Alabama','1','544,464','3,424','379,018','2,294',69.6,0.4,'144,187','4,134','26.5','0.7','6,506','1,048','1.2','0.2',' N ',' N ',' N ',' N ',' N ',' N ',' N ',' N ','2,884','1,365','0.5','0.3','7,325','3,134','1.3','0.6','11,678','1,192','2.1','0.2','370,443','1,879',68,0.4),

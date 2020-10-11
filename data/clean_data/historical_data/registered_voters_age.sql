@@ -1,4 +1,4 @@
-CREATE TABLE your_table_name (
+CREATE TABLE registered_voters_age (
   id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
   line INT,
   state_code VARCHAR(255),
@@ -23,7 +23,7 @@ CREATE TABLE your_table_name (
   col65_or_older_perc FLOAT,
   col65_or_older_perc_MOE FLOAT
 );
-INSERT INTO your_table_name
+INSERT INTO registered_voters_age
   (line,state_code,state_name,congressional_district,voting_age_pop_estimate,voting_age_pop_MOE,col18_to_29_estimate,col18_to_29_MOE,col18_to_29_perc,col18_to_29_perc_MOE,col30_to_44_estimate,col30_to_44_MOE,col30_to_44_perc,col30_to_44_perc_MOE,col45_to_64_estimate,col45_to_64_MOE,col45_to_64_perc,col45_to_64_perc_MOE,col65_or_older_estimate,col65_or_older_MOE,col65_or_older_perc,col65_or_older_perc_MOE)
 VALUES
   (1,'AL','Alabama','1','544,464','3,424','104,060','2,412',19.1,0.4,'125,900','2,538',23.1,0.5,'188,031','3,186',34.5,0.5,'126,473','1,797',23.2,0.3),

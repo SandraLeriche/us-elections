@@ -1,4 +1,4 @@
-CREATE TABLE your_table_name (
+CREATE TABLE registered_voters_participation (
   id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
   line INT,
   state_code VARCHAR(255),
@@ -10,7 +10,7 @@ CREATE TABLE your_table_name (
   voting_rate_estimate VARCHAR(255),
   voting_rate_MOE VARCHAR(255)
 );
-INSERT INTO your_table_name
+INSERT INTO registered_voters_participation
   (line,state_code,state_name,congressional_district,votes_cast_in_prior_election,voting_age_pop_estimate,voting_age_pop_MOE,voting_rate_estimate,voting_rate_MOE)
 VALUES
   (1,'AL','Alabama','1','242,617','544,464','3,424','44.6','0.3'),
