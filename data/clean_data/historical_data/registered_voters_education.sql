@@ -9,7 +9,7 @@ CREATE TABLE registered_voters_education (
   less_9_grade_estimate VARCHAR(255),
   less_9_grade_MOE VARCHAR(255),
   less_9_grade_perc FLOAT,
-  less_9_grade_MOE FLOAT,
+  less_9_grade_perc_MOE FLOAT,
   col9_to_12_grade_estimate VARCHAR(255),
   col9_to_12_grade_MOE VARCHAR(255),
   col9_to_12_grade_perc FLOAT,
@@ -44,7 +44,7 @@ CREATE TABLE registered_voters_education (
   bachelors_degree_or_more_perc_MOE FLOAT
 );
 INSERT INTO registered_voters_education
-  (line,state_code,state_name,congressional_district,voting_age_pop_estimate,voting__age_pop_MOE,less_9_grade_estimate,less_9_grade_MOE,less_9_grade_perc,less_9_grade_MOE,col9_to_12_grade_estimate,col9_to_12_grade_MOE,col9_to_12_grade_perc,col9_to_12_grade_perc_MOE,high_school_estimate,high_school_MOE,high_school_perc,high_school_perc_MOE,college_no_degree_estimate,college_no_degree_MOE,college_no_degree_perc,college_no_degree_perc_MOE,associate_degree_estimate,associate_degree_MOE,associate_degree_perc,associate_degree_perc_MOE,bachelors_degree_estimate,bachelors_degree_MOE,bachelors_degree_perc,bachelors_degree_perc_MOE,graduate_degree_estimate,graduate_degree_MOE,graduate_degree_perc,graduate_degree_perc_MOE,high_school_or_more_estimate,high_school_or_more_MOE,high_school_or_more_perc,high_school_or_more_perc_MOE,bachelors_degree_or_more_estimate,bachelors_degree_or_more_MOE,bachelors_degree_or_more_perc,bachelors_degree_or_more_perc_MOE)
+  (line,state_code,state_name,congressional_district,voting_age_pop_estimate,voting__age_pop_MOE,less_9_grade_estimate,less_9_grade_MOE,less_9_grade_perc,less_9_grade_perc_MOE,col9_to_12_grade_estimate,col9_to_12_grade_MOE,col9_to_12_grade_perc,col9_to_12_grade_perc_MOE,high_school_estimate,high_school_MOE,high_school_perc,high_school_perc_MOE,college_no_degree_estimate,college_no_degree_MOE,college_no_degree_perc,college_no_degree_perc_MOE,associate_degree_estimate,associate_degree_MOE,associate_degree_perc,associate_degree_perc_MOE,bachelors_degree_estimate,bachelors_degree_MOE,bachelors_degree_perc,bachelors_degree_perc_MOE,graduate_degree_estimate,graduate_degree_MOE,graduate_degree_perc,graduate_degree_perc_MOE,high_school_or_more_estimate,high_school_or_more_MOE,high_school_or_more_perc,high_school_or_more_perc_MOE,bachelors_degree_or_more_estimate,bachelors_degree_or_more_MOE,bachelors_degree_or_more_perc,bachelors_degree_or_more_perc_MOE)
 VALUES
   (1,'AL','Alabama','1','544,464','3,424','13,409','1,845',2.5,0.3,'57,234','4,433',10.5,0.8,'185,503','6,968',34.1,1.2,'122,236','6,275',22.5,1.2,'42,603','3,561',7.8,0.6,'82,971','5,147',15.2,1,'40,508','3,710',7.4,0.7,'473,821','5,794',87,0.9,'123,479','5,614',22.7,1.1),
   (2,'AL','Alabama','2','516,295','5,674','18,295','2,059',3.5,0.4,'53,192','3,981',10.3,0.8,'172,427','6,215',33.4,1.1,'119,350','5,038',23.1,1,'45,677','3,467',8.8,0.7,'69,082','4,208',13.4,0.8,'38,272','2,888',7.4,0.6,'444,808','6,761',86.2,0.9,'107,354','5,009',20.8,1),
