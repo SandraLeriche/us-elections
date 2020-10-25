@@ -85,3 +85,115 @@ Pollster,Combination of the Name of Polling data and how many days the Poll took
 State,State of the USA,no_of_registered_voters_by_state_2020.csv
 registeredPerc,Percentage of registered voters against the state population,no_of_registered_voters_by_state_2020.csv
 totalRegistered,Count of registered voters,no_of_registered_voters_by_state_2020.csv
+state_code,abbreviated state,all registered_voters* tables
+state_name,state,all registered_voters* tables
+congressional_district,congressional district,all registered_voters* tables
+voting_age_pop_estimate,estimate of the population of citizens of voting age,all registered_voters* tables
+voting_age_pop_MOE,margin of error for the estimate of the population of citizens of voting age,all registered_voters* tables
+18_to_29_estimate,estimate of the population of voters who are in the age group 18 to 29,registered_voters_age
+18_to_29_MOE,margin of error for the estimate of the population of voters who are in the age group 18 to 29,registered_voters_age
+18_to_29_perc,percentage of voters who are 18 to 29,registered_voters_age
+18_to_29_perc_MOE,margin of error for the percentage of voters who are 18 to 29,registered_voters_age
+30_to_44_estimate,estimate of the population of voters who are in the age group 30 to 44,registered_voters_age
+30_to_44_MOE,margin of error for the estimate of the population of voters who are in the age group 30 to 44,registered_voters_age
+30_to_44_perc,percentage of voters who are 30 to 44,registered_voters_age
+30_to_44_perc_MOE,margin of error for the percentage of voters who are 30 to 44,registered_voters_age
+45_to_64_estimate,estimate of the population of voters who are in the age group 45 to 64,registered_voters_age
+45_to_64_MOE,margin of error for the estimate of the population of voters who are in the age group 45 to 64,registered_voters_age
+45_to_64_perc,percentage of voters who are 45 to 64,registered_voters_age
+45_to_64_perc_MOE,margin of error for the percentage of voters who are 45 to 64,registered_voters_age
+65_or_older_estimate,estimate of the population of voters who are in the age group 65 or older,registered_voters_age
+65_or_older_MOE,margin of error for the estimate of the population of voters who are in the age group 65 or older,registered_voters_age
+65_or_older_perc,percentage of voters who are 65 or older,registered_voters_age
+65_or_older_perc_MOE,margin of error for the percentage of voters who are 65 or older,registered_voters_age
+less_9_grade_estimate,estimate of population of voters who have less than grade 9 education,registered_voters_eductation
+less_9_grade_MOE,margin of error for the estimate of population of voters who have less than 9 grade education,registered_voters_eductation
+less_9_grade_perc,percentage of voters who have less than grade 9 education,registered_voters_eductation
+less_9_grade_perc_MOE,margin of error for the percentage of voters who have less than grade 9 education,registered_voters_eductation
+9_to_12_grade_estimate,estimate of population of voters who have grade 9 to 12 education,registered_voters_eductation
+9_to_12_grade_MOE,margin of error for the estimate of population of voters who have less than 9 grade education,registered_voters_eductation
+9_to_12_grade_perc,percentage of voters who have grade 9 to 12 education,registered_voters_eductation
+9_to_12_grade_perc_MOE,margin of error for the percentage of voters who have grade 9 to 12 education,registered_voters_eductation
+high_school_estimate,estimate of population of voters who have high school education,registered_voters_eductation
+high_school_MOE,margin of error for the estimate of population of voters who have grade 9 to 12 education,registered_voters_eductation
+high_school_perc,percentage of voters who have high school education,registered_voters_eductation
+high_school_perc_MOE,margin of error for the percentage of voters who have high school education,registered_voters_eductation
+college_no_degree_estimate,estimate of population of voters who have college education,registered_voters_eductation
+college_no_degree_MOE,margin of error for the estimate of population of voters who have high school education,registered_voters_eductation
+college_no_degree_perc,percentage of voters who have college education,registered_voters_eductation
+college_no_degree_perc_MOE,margin of error for the percentage of voters who have college education,registered_voters_eductation
+associate_degree_estimate,estimate of population of voters who have associate degree education,registered_voters_eductation
+associate_degree_MOE,margin of error for the estimate of population of voters who have associate degree education,registered_voters_eductation
+associate_degree_perc,percentage of voters who have associate degree education,registered_voters_eductation
+associate_degree_perc_MOE,margin of error for the percentage of voters who have associate degree education,registered_voters_eductation
+bachelors_degree_estimate,estimate of population of voters who have bachelors degree education,registered_voters_eductation
+bachelors_degree_MOE,margin of error for the estimate of population of voters who have bachelors degree education,registered_voters_eductation
+bachelors_degree_perc,percentage of voters who have bachelors degree education,registered_voters_eductation
+bachelors_degree_perc_MOE,margin of error for the percentage of voters who have bachelors degree education,registered_voters_eductation
+graduate_degree_estimate,estimate of population of voters who have graduate degree education,registered_voters_eductation
+graduate_degree_MOE,margin of error for the estimate of population of voters who have graduate degree education,registered_voters_eductation
+graduate_degree_perc,percentage of voters who have graduate degree education,registered_voters_eductation
+graduate_degree_perc_MOE,margin of error for the percentage of voters who have graduate degree education,registered_voters_eductation
+high_school_or_more_estimate,estimate of population of voters who have high school or more education,registered_voters_eductation
+high_school_or_more_MOE,margin of error for the estimate of population of voters who have high school or more education,registered_voters_eductation
+high_school_or_more_perc,percentage of voters who have high school or more education,registered_voters_eductation
+high_school_or_more_perc_MOE,margin of error for the percentage of voters who have high school or more education,registered_voters_eductation
+bachelors_degree_or_more_estimate,estimate of population of voters who have bachelors or more education,registered_voters_eductation
+bachelors_degree_or_more_MOE,margin of error for the estimate of population of voters who have bachelors or more education,registered_voters_eductation
+bachelors_degree_or_more_perc,percentage of voters who have bachelors or more education,registered_voters_eductation
+bachelors_degree_or_more_perc_MOE,margin of error for the percentage of voters who have bachelors or more education,registered_voters_eductation
+men_estimate,estimate of voting age population that are male,registered_voters_sex_and_poverty
+men_MOE,margin of error on the estimate of voting age population that are male,registered_voters_sex_and_poverty
+men_perc,percentage of the voters who are male,registered_voters_sex_and_poverty
+men _perc_MOE,margin of error on the percentage of voters who are male,registered_voters_sex_and_poverty
+women_estimate,estimate of voting age population that are female,registered_voters_sex_and_poverty
+women_MOE,margin of error on the estimate of voting age population that are female,registered_voters_sex_and_poverty
+women_perc,percentage of the voters who are female,registered_voters_sex_and_poverty
+women _perc_MOE,margin of error on the percentage of voters who are female,registered_voters_sex_and_poverty
+poverty_universe,,registered_voters_sex_and_poverty
+poverty_universe_MOE,,registered_voters_sex_and_poverty
+below_poverty_estimate,estimate of the number of voters below poverty line,registered_voters_sex_and_poverty
+below_proverty_MOE,margin of error on the estimate of the number of voters below poverty line,registered_voters_sex_and_poverty
+below_poverty_perc,percentage of voters below poverty line,registered_voters_sex_and_poverty
+below_poverty_MOE,margin of error for the percentage of voters below poverty line,registered_voters_sex_and_poverty
+white_estimate,estimate of the number of voters who are white,registered_voters_race_hispanic_origin
+white_MOE,margin of error for the number of voters who are white,registered_voters_race_hispanic_origin
+white_perc,percentage of the number of voters who are white,registered_voters_race_hispanic_origin
+white_perc_MOE,margin of error for percentage of voters who are white,registered_voters_race_hispanic_origin
+black_estimate,estimate of the number of voters who are black,registered_voters_race_hispanic_origin
+black_MOE,margin of error for the number of voters who are black,registered_voters_race_hispanic_origin
+black_perc,percentage of the number of voters who are black,registered_voters_race_hispanic_origin
+black_perc_MOE,margin of error for percentage of voters who are black,registered_voters_race_hispanic_origin
+asia_estimate,estimate of the number of voters who are asian,registered_voters_race_hispanic_origin
+asia_MOE,margin of error for the number of voters who are asian,registered_voters_race_hispanic_origin
+asia_perc,percentage of the number of voters who are asian,registered_voters_race_hispanic_origin
+asia_perc_MOE,margin of error for percentage of voters who are asian,registered_voters_race_hispanic_origin
+native_american_estimate,estimate of the number of voters who are american indian or native alaskan,registered_voters_race_hispanic_origin
+native_american_MOE,margin of error for the number of voters who are american indian or native alaskan,registered_voters_race_hispanic_origin
+native_american_perc,percentage of the number of voters who are american indian or native alaskan,registered_voters_race_hispanic_origin
+native_american_perc_MOE,margin of error for percentage of voters who are american indian or native alaskan,registered_voters_race_hispanic_origin
+native_hawaiian_estimate,estimate of the number of voters who are native hawaiian and pacific islander,registered_voters_race_hispanic_origin
+native_hawaiian_MOE,margin of error for the number of voters who are native hawaiian and pacific islander,registered_voters_race_hispanic_origin
+native_hawaiian_perc,percentage of the number of voters who are native hawaiian and pacific islander,registered_voters_race_hispanic_origin
+native_hawaiian_perc_MOE,margin of error for percentage of voters who are native hawaiian and pacific islander,registered_voters_race_hispanic_origin
+other_race_estimate,estimate of the number of voters who are other race,registered_voters_race_hispanic_origin
+other_race_MOE,margin of error for the number of voters who are other race,registered_voters_race_hispanic_origin
+other_race_perc,percentage of the number of voters who are other race,registered_voters_race_hispanic_origin
+other_race_perc_MOE,margin of error for percentage of voters who are other race,registered_voters_race_hispanic_origin
+multi_race_estimate,estimate of the number of voters who are two or more races,registered_voters_race_hispanic_origin
+multi_race_MOE,margin of error for the number of voters who are two or more races,registered_voters_race_hispanic_origin
+multi_race_perc,percentage of the number of voters who are two or more races,registered_voters_race_hispanic_origin
+multi_race_perc_MOE,margin of error for percentage of voters who are two or more races,registered_voters_race_hispanic_origin
+hispanic_estimate,estimate of the number of voters who are hispanic,registered_voters_race_hispanic_origin
+hispanic_MOE,margin of error for the number of voters who are hispanic,registered_voters_race_hispanic_origin
+hispanic_perc,percentage of the number of voters who are hispanic,registered_voters_race_hispanic_origin
+hispanic_perc_MOE,margin of error for percentage of voters who are hispanic,registered_voters_race_hispanic_origin
+white_non_hispanic_estimate,estimate of the number of voters who are white non-hispanic,registered_voters_race_hispanic_origin
+white_non_hispanic_MOE,margin of error for the number of voters who are white non-hispanic,registered_voters_race_hispanic_origin
+white_non_hispanic_perc,percentage of the number of voters who are white non-hispanic,registered_voters_race_hispanic_origin
+white_non_hispanic_perc_MOE,margin of error for percentage of voters who are white non-hispanic,registered_voters_race_hispanic_origin
+votes_cast_in_prior_election,"total votes cast for congressional representative for the November 6, 2018 election",registered_voters_race_hispanic_origin
+voting_age_pop_estimate,estimate of the population of voting age citizens,registered_voters_participation
+voting_age_pop_MOE,margin of error for the estimate of voting age citizens,registered_voters_participation
+voting_rate_estimate,estimate of the voting rate,registered_voters_participation
+voting_rate_MOE,margin of error for the estimate of voting rate,registered_voters_participation
