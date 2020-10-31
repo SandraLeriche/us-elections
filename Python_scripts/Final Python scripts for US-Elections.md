@@ -1,4 +1,6 @@
-## Python scripts for US-Elections
+### Python scripts for US-Elections
+### All Eyes on U.S.
+
 
 # Import libraries
 
@@ -11,8 +13,21 @@ import plotly.express as px
 import plotly.graph_objects as go
 import imageio
 import os
+import mysql.connector
+from bokeh.plotting import figure, show
+from bokeh.io import output_notebook
+from math import pi
+import squarify
+from matplotlib_venn import venn3
+from mpl_toolkits.mplot3d import Axes3D
+import wikipedia
+from wordcloud import WordCloud, STOPWORDS
+import warnings
+from pandas.core.common import SettingWithCopyWarning
+warnings.simplefilter(action="ignore", category=SettingWithCopyWarning)
 
 ## Voting tendencies by education level
+
 # Load csv
 education = pd.read_csv("../data/clean_data/analysis_data/voting_tendencies_by_education_level_2016.csv")
 education.head()
@@ -245,3 +260,163 @@ for file_name in os.listdir(png_dir):
         images.append(imageio.imread(file_path))
 imageio.mimsave('../visualisations/gif/2016vs2020.gif', images, fps=1)
 
+## Top 5 States with highest registered voters 2016
+
+# Connecting the sql database to Python using “MySQL Connector”
+# Install the my-sql-connector to connect to mysql db
+# Call once to configure Bokeh to display plots inline in the notebook.
+output_notebook()
+
+conn=pymysql.connect(host='localhost',port=int(3306),user='root',passwd='',db='erd_elections')
+top_five_states_dem_vs_GOP=pd.read_sql_query("select * from v_top_5_states_race",conn)
+print (top_five_states_dem_vs_GOP)
+
+# data to plot
+top_five_states_dem_vs_GOP = 5
+GOP = (2969532.0, 4605515.0, 2118179.0, 2912941.0, 4681590.0)
+DEM = (5488261.0 , 4485745.0, 2977498.0, 2844705.0, 3867816.0 )
+
+# create plot
+fig, ax = plt.subplots()
+index = np.arange(top_five_states_dem_vs_GOP)
+bar_width = 0.35
+opacity = 0.8
+
+rects1 = plt.bar(index, GOP, bar_width,
+alpha=opacity,
+color='red',
+label='GOP')
+
+rects2 = plt.bar(index + bar_width, DEM, bar_width,
+alpha=opacity,
+color='blue',
+label='DEM')
+
+plt.xlabel('state')
+plt.ylabel('total_votes')
+plt.title('GOP vs DEM')
+plt.xticks(index + bar_width, ('CALIFORNIA', 'FLORIDA', 'ILLINOIS','PENNSYLVANIA','TEXAS'))
+plt.legend()
+
+plt.tight_layout()
+plt.show()
+
+## Top 10 States
+
+# Load the file for the Presidential state toplines
+df = pd.read_csv("../data/clean_data/2020/presidential_state_toplines_2020.csv", encoding = 'utf-8')
+
+# The first 5 rows of the file
+df.head(5)
+
+# Select the columns for the state, the date and the voteshare between Trump, Biden and other.
+df = df[['modeldate','state','voteshare_inc', 'voteshare_chal', 'voteshare_other']]
+df
+
+# Average of the data by date and state.
+df_avg = df.groupby(['modeldate','state']).mean()
+df_avg
+
+# Then i finally decided to group the data by state and used the average percentage of vote share.
+df1 = df.groupby(['state']).mean()
+df1
+
+# Filtering the states, drop the duplicates
+df1 = df1.drop(['ME-1', 'ME-2', 'NE-1', 'NE-2', 'NE-3'], axis=0)
+df1
+
+# Sort the data in descending order to find a forecast of the top 10 states who are in favor of Trump winning the election.
+df2=df1.sort_values(by=['voteshare_inc'], ascending=False)
+df2 = df2.head(10)
+
+# Plot a bar graph for the top 10 states in favor of Trump.
+df2.plot(kind = 'bar', title = 'Forecast-Top 10 states in favor of Trump (5th October 2020)', width = 1)
+plt.xlabel('State')
+plt.ylabel('Percentage of Voters')
+plt.legend(['Trump', 'Biden', 'Others'])
+plt.show()
+
+# Sort the data in descending order to find a forecast of the top 10 states who are in favor of Biden winning the election.
+df3=df1.sort_values(by=['voteshare_chal'], ascending=False)
+df3 = df3.head(10)
+
+# Plot a bar graph for the top 10 states in favor of Biden.
+df3.plot(kind = 'bar',title = 'Forecast-Top 10 states in favor of Biden (5th October 2020)', width = 1)
+plt.xlabel('State')
+plt.ylabel('Percentage of Voters')
+plt.legend(['Trump', 'Biden', 'Others'])
+plt.show()
+
+## 2020 Presidential Poll Percentage Changes
+
+# Load csv
+polls = pd.read_csv("../data/archive/electoral_vote_pres_polls_20201011.csv")
+geo = pd.read_csv("../data/archive/us_state_geo_location.csv")
+abbre = pd.read_csv("../data/archive/us_state_abbreviations.csv")
+
+# Select Columns
+polls = polls[['Day', 'State', 'EV', 'Dem', 'GOP']]
+
+# Merge two datasets
+polls_geo = pd.merge(polls, geo, how = 'inner')
+polls_geo
+
+# Get dataframe sorted by Day in each state
+polls_geo = polls_geo.groupby(['State']).apply(lambda x: x.sort_values(["Day"], ascending = False)).reset_index(drop = True)
+
+# Select first & latest polls within each state
+polls_geo_first = polls_geo.groupby('State').tail(1)
+polls_geo_late = polls_geo.groupby('State').head(1)
+
+# Add 'Stage' column stage to distinguish first & latest polls
+polls_geo_late['Stage'] = "Latest"
+polls_geo_first['Stage'] = "First"
+
+# Append two dataframes
+polls_geo_all = polls_geo_first.append(polls_geo_late, ignore_index = True)
+polls_geo_all
+
+# Plot comparison
+fig = px.scatter_geo(polls_geo_all,
+                     lat = "Latitude",
+                     lon = "Longitude",
+                     color = "GOP",
+                     hover_name = "State",
+                     size = "EV",
+                     scope = 'usa',
+                     labels = {'GOP':'% Preference to Republican Party'},
+                     title = 'The U.S. President Polls Electoral Vote in 2020 (by 11th October)',
+                     animation_frame = "Stage")
+fig.show()
+
+# Find the change in percentage between first & latest polls
+polls_dif = polls_geo.groupby('State').head(1).set_index(['State']).subtract(polls_geo.groupby('State').tail(1).set_index(['State']), fill_value = 0).reset_index()
+polls_dif = polls_dif[['State','Dem','GOP']]
+polls_dif = pd.merge(polls_dif, abbre)
+polls_dif
+
+# Add 'Party' column stage to distinguish GOP & Dem
+polls_dif_GOP = polls_dif[['State','GOP','Code']]
+polls_dif_GOP['Party'] = "GOP"
+polls_dif_GOP.rename(columns = {'GOP':'Percentage'}, inplace = True)
+polls_dif_Dem = polls_dif[['State','Dem','Code']]
+polls_dif_Dem['Party'] = "Dem"
+polls_dif_Dem.rename(columns = {'Dem':'Percentage'}, inplace = True)
+
+# Append two dataframes
+polls_dif_all = polls_dif_GOP.append(polls_dif_Dem, ignore_index = True)
+polls_dif_all
+
+# Plot comparison
+fig1 = px.choropleth(polls_dif_all,
+                     locations = "Code",
+                     locationmode = 'USA-states',
+                     color = "Percentage",
+                     color_continuous_scale = "RdBu",
+                     range_color = (-10, 10),
+                     scope = 'usa',
+                     hover_name = "State",
+                     labels = {'Percentage': '% Change'},
+                     title = 'The Percentage Change between First and Latest Electoral Vote (by 11th October 2020)',
+                     animation_frame = "Party")
+fig1.show()
