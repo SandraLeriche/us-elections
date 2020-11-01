@@ -420,3 +420,42 @@ fig1 = px.choropleth(polls_dif_all,
                      title = 'The Percentage Change between First and Latest Electoral Vote (by 11th October 2020)',
                      animation_frame = "Party")
 fig1.show()
+
+## Voting tendencies by race
+
+conn=pymysql.connect(host='localhost',port=int(3306),user='root',passwd='',db='erd_elections')
+states_race_dem_vs_GOP=pd.read_sql_query("select * from v_states_race",conn)
+print (states_race_dem_vs_GOP)
+
+conn= pymysql.connect(host='localhost',port=int(3306),user='root',passwd='',db='erd_elections')
+DEM = pd.read_sql_query("select whites,blacks,native,asian,hispanic from race_p where party_name = 'DEM'",conn)
+GOP = pd.read_sql_query("select whites,blacks,native,asian,hispanic from race_p where party_name = 'GOP'",conn)
+
+headers = list(GOP.columns)
+n_groups = 5
+dem_values  = [37710124,6148114,188056,2136062,6330527]
+gop_values  = [39209606, 6525586, 238765, 1676878, 5747657]
+
+fig, ax = plt.subplots()
+index = np.arange(n_groups)
+bar_width = 0.35
+opacity = 0.8
+
+rects1 = plt.bar(index, dem_values, bar_width,
+alpha=opacity,
+color='b',
+label='DEM')
+
+rects2 = plt.bar(index + bar_width, gop_values, bar_width,
+alpha=opacity,
+color='r',
+label='GOP')
+
+plt.xlabel('RACE')
+plt.ylabel('TOTAL VOTES')
+plt.title('VOTES BY RACE')
+plt.xticks(index + bar_width, headers)
+plt.legend()
+
+plt.tight_layout()
+plt.show()
